@@ -77,7 +77,7 @@ $tests = [
 <html>
 <head>
     <title>Task 2</title>
-<head>
+</head>
 <body>
 <h1>Task 2</h1>
     <p>Sort array using array_swap.</p>
@@ -92,5 +92,5 @@ $tests = [
             <div class="content"><?= join(', ', $output); ?></div>
         </div>
     <?php endforeach; /* $tests */ ?>
-<body>
+</body>
 </html>
